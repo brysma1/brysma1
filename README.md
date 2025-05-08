@@ -1,7 +1,7 @@
 # hi!! hello!! hey heyo hiiii hoi!! :3 ^-^ :D!! hey you!! oh hi again!!
 
 ## Feats:
-- removed the frech flag package from my system (it still works)
+- removed the french flag package from my system (it still works)
 
 <!--
 **brysma1/brysma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
