@@ -1,19 +1,11 @@
 # hi!! hello!! hey heyo hiiii hoi!! :3 ^-^ :D!! hey you!! oh hi again!!
 
 ## Feats:
-- removed the french flag package from my system (it still works)
+- removed the french flag package from my system (it still works).
+- a pile of not finished projects.
 
-<!--
-**brysma1/brysma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages i've worked on:
+- C (ANSI C / C89)
+- JavaScript (Sadly)
+- Spanish (kinda)
+- English (kinda)
